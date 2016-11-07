@@ -1,1 +1,94 @@
-xxm xpozm 
+body {
+	background-color: #7DB7D9;
+	margin: 0;
+}
+.header {
+	background-color: #C87030;
+
+}
+.header img {
+	height: 200px;
+	width: 200px;
+	margin-left: 45%;
+	margin-top: 1%;
+}
+.header h1 {
+	margin-left: 44%;
+	color: white;
+}
+.intro {
+	background-color: white;
+	margin: 10% 10% 0% 10%;
+}
+.intro h2 {
+	margin-left: 37%;
+}
+.intro p {
+	padding: 0% 25% 3% 25%;
+
+}
+.intro img {
+	float: right;
+
+}
+.history {
+	background-color: white;
+	margin: 0% 10% 0% 10%;
+}
+.history img {
+	float: left;
+	height: 175px;
+	width: 150px;
+	padding-left: 3%;
+	padding-top: 2%;
+	padding-right: 3%;
+}
+.history h3 {
+	margin-left: 50%;
+	font-size: 25px;
+}
+.history p {
+	padding : 2%;
+
+}
+.famous {
+	background-color: white;
+	margin: 10% 10% 5% 10%;
+}
+.famous h3 {
+	margin-left: 37%;
+	font-size: 25px;
+}
+.famous li {
+	padding-left: 3%;
+	padding-top: 2%;
+
+}
+.image {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+}
+
+.famous img{
+    display: inline;
+    margin: 0 auto;
+    height: 115%;
+    width: 100%;
+}
+.me {
+	background-color: #907C79;
+	padding: 3%;
+}
+.me a {
+	text-decoration: none;
+	color: black;
+}
+.me a:visited {
+	color: black;
+}
+.me a:hover {
+	color: white;
+}
